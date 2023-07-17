@@ -1,0 +1,4 @@
+from math import pi
+radius = input ('Waht is the circle radius ?')
+print('The area of the circle is', float(radius) ** 2 * pi)
+print('The circumfernece of the circle is', 2 + float(radius) * pi)
